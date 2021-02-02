@@ -1,0 +1,19 @@
+h2{
+    font-size: 50px;
+}
+
+.container {
+    text-align: center;
+}
+
+
+.btn {
+    background-color: blue;
+    color: wheat;
+    border: 2px solid white;
+    border-radius: 5px;
+}
+
+
+
+
